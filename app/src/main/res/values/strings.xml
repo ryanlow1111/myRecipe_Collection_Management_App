@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">myRecipe</string>
+    <string name="email_error">Invalid email format</string>
+    <string name="password_error">Please enter password</string>
+    <string name="no_account_sign_up_here">No account? <b>Sign up Here</b></string>
+    <string name="signup_password_error">Password length must more than 5 characters</string>
+    <string name="cancel_remove">Cancel</string>
+    <string name="confirm_remove">Remove</string>
+    <string name="recipe_remove_dialog">Remove recipe?</string>
+    <string name="remove_account_dialog">Remove Account?</string>
+</resources>
